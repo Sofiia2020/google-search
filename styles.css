@@ -1,0 +1,53 @@
+.form {
+  text-align: center;
+}
+.query {
+  border-radius: 25px;
+  border-color: grey;
+  width: 582px;
+  height: 44px;
+  border-width: thin;
+}
+.ankor {
+  position: relative;
+  left: 90%;
+}
+.google-search {
+  position: relative;
+  left: 90%;
+}
+.button {
+  background-color: #4d90fe;
+  color: #fff;
+  border: 1px solid #3079ed;
+  padding: 2px 30px 2px 30px;
+  margin-left: 448px;
+}
+.google-search3 {
+  position: relative;
+  left: 90%;
+}
+.google-logo {
+  text-align: center;
+}
+.input3 {
+  width: 342px;
+  height: 29px;
+  border: 1px solid grey;
+}
+.span1 {
+  margin: 0 116px 0 0;
+}
+.span2 {
+  margin: 0 55px 0 0;
+}
+.span3 {
+  margin: 0 35px 0 0;
+}
+.span4 {
+  margin: 0 136px 0 0;
+}
+.rp {
+  color: rgba(116, 9, 9, 0.938);
+  font-size: 20px;
+}
